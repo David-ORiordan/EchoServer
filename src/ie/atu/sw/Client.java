@@ -9,7 +9,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.Scanner;
 
-public class Client { // code derived from lecture week 9 - DaytimeClient.java
+public class Client { 
 
 	public static void main(String[] args) throws IOException {
 
