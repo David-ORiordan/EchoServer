@@ -13,7 +13,7 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class EchoServer {  // code derived from lecture week 9 - PooledDaytimeServer.java
+public class EchoServer {
 
 	public static List<String> names = new ArrayList<String>(); 
 
